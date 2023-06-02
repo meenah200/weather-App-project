@@ -88,7 +88,7 @@ p {
   color: #9da7b8;
   font-size: 40px;
 }
-.footer{
+.footer, a{
   text-align: center;
   text-decoration: none;
 }
