@@ -1,0 +1,90 @@
+body {
+  font: 1rem/1.5 var(--bs-font-sans-serif);
+  color: var(--bs-black);
+}
+
+.card {
+  display: block;
+  margin: 40px auto;
+  padding: 10px;
+  border: 2px solid #000;
+  border-radius: 10px;
+}
+
+li {
+  font-size: 20px;
+  list-style: none;
+  flex-direction: left;
+}
+
+.city {
+  color: #198754;
+}
+
+div.card {
+  background-color: #fff;
+  width: 50%;
+  padding: 20px;
+}
+
+.col-5 {
+  color: #93a7a6;
+}
+
+.temperature {
+  font-size: 50px;
+}
+
+.btn-primary,
+.btn-success {
+  border-radius: 0.5rem;
+}
+
+.btn-primary:hover {
+  color: #5d5cf6;
+  background-color: #fff;
+}
+
+.align-items-start {
+  padding: 10px 5px;
+}
+
+.describe {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+p {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.units {
+  position: relative;
+  top: -25px;
+}
+
+.fa-cloud-rain {
+  color: #073f16;
+  font-size: 40px;
+}
+
+.fa-sun {
+  color: #cfe238;
+  font-size: 40px;
+}
+
+.fa-cloud-sun {
+  color: green;
+  font-size: 40px;
+}
+
+.fa-cloud-sun {
+  color: #9da7b8;
+  font-size: 40px;
+}
+
+.fa-cloud {
+  color: #9da7b8;
+  font-size: 40px;
+}
